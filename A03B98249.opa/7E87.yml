@@ -1,0 +1,27 @@
+segment_sources:
+  I56B67F6B:
+    type: origin_type
+    relation: translation
+    base: A8DE
+    lang: en
+  ID0DACDDE:
+    type: origin_type
+    relation: translation
+    base: 236C
+    lang: bo
+segment_pairs:
+  185df1ea161a4eef841993923a5effb0:
+    I56B67F6B: 7066c3533e0d4be2bfa9ab8e72977243
+    ID0DACDDE: 3846f779476845ba85b62bce4f5c234b
+  90f1b3e346bb47c2af93bc8de2f0fb3a:
+    I56B67F6B: baa7b4290b8b4383b74510efec02a3e2
+    ID0DACDDE: c9e31f63b80c4689b3442dc91456ec6b
+  a7a44b21a64b4a5a9ad2af46ff99af74:
+    I56B67F6B: 674bc4364ac9418187e81c406de82b36
+    ID0DACDDE: fb6660b36dfe4172b51de7db7e46b43f
+  e07bff15b63b4e97baaef94091fa041a:
+    I56B67F6B: 08e3ad079119491ba30e064bca6fed4d
+    ID0DACDDE: 8f00535a73f64e27a35f2b988b53b18b
+  17458f7a1e024d45a0210b7f63bee18f:
+    I56B67F6B: edc25ff6b6fd42ccad7d7a6a4a094f15
+    ID0DACDDE: 49661eaf271e488bac1d06a14faf363a
